@@ -1,0 +1,20 @@
+Lecture 2 (cont.)
+
+
+- [x] loop operators: for, while, do while
+- [x] even numbers / odd numbers till 100
+- [x] infinity loop
+- [x] all numbers which divisible by 3 in range (a, b)
+- [x] count number of dividers of N
+- [ ] prime number
+- [x] fibonacci sequence (0, 1, 1, 2, 3, 5, …)
+- [x] factorial
+- [x] sum of numbers (cin reads numbers in the loop)
+- [ ] string: number of words
+- [ ] Loop samples
+    - [x] Sum of digits (for, while)
+    - [ ] list of all squares < N (while)
+    - [ ] do while & while
+        - [ ] factorial using — while
+        - [ ] sum all numbers util user enter 0 — do while
+    - [ ] string: number of words
