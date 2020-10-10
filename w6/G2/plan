@@ -1,0 +1,22 @@
+Lecture 4
+
+- [x] Nested loop 
+    - [x] Multiplication table
+- [x] 2D array (matrix)
+- [x] Initializing Two-Dimensional Arrays
+- [x] Accessing Two-Dimensional Array Elements
+- [x] input, output 
+- [x] table of multiplication
+- [x] max element in matrix 
+- [x] eye (1, 0)
+- [x] eye (1, 2, 3)
+- [x] opposite eye (1, 0)
+- [x] opposite eye (1, 2, 3)
+- [x] symmetric matrix
+    - [x] with bool
+    - [x] with return
+    - [x] with counter
+- [x] max, min (with location) in matrix (n, m size)
+- [x] max per row
+- [ ] max per row sum
+- [ ] snake 

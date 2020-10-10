@@ -1,0 +1,24 @@
+- [x] Nested loop 
+    - [x] Multiplication table
+- [x] 2D array (matrix)
+- [x] Initializing Two-Dimensional Arrays
+- [x] Accessing Two-Dimensional Array Elements
+- [x] input, output 
+- [x] table of multiplication
+- [x] max element in matrix 
+- [x] multiplication table (width)
+- [x] eye (1, 0)
+- [x] eye (1, 2, 3)
+- [ ] 
+- [ ] 0 0 0 1 
+- [ ] 0 0 1 2 
+- [ ] 0 1 2 2 
+- [ ] 1 2 2 2 
+- [ ] 
+- [x] symmetric matrix
+    - [x] with bool
+    - [x] with return
+- [ ] max, min (with location) in matrix (n, m size)
+- [ ] max per row
+- [ ] max per row sum
+- [ ] snake
