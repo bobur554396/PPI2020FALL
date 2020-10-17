@@ -1,0 +1,36 @@
+Lecture 5
+
+- [x] array sort, reverse
+- [x] array pointer
+- [x] What is string
+- [x] Initialize string (with constructor)
+- [x] size & length
+- [x] copy string from one to other
+- [x] comparing two string for equality
+- [x] adding chars to string
+- [x] concatenate two strings (+, +=) 
+- [x] accessing each element of the string
+- [x] for loop get each element
+- [x] convert char to number (ascii)
+- [x] s.front(), s.back()
+- [x] s.begin(), s.end() (related with array pointers)
+- [x] find function
+    - [x] size_t
+    - [x] string::npos
+- [x] given two string show YES if second is found in first one NO otherwise
+- [x] find(other string, starting index) — count how many times occurs
+- [x] getline(cin, s) — read all line
+- [x] substr
+- [ ] print all doubled chars, which are located in sequence
+- [x] erase(start_index, count)
+- [x] string reverse 
+- [x] string sort
+- [x] palindrom (yes, no)
+    - [x] through loop iterators
+    - [x] reverse
+    - [x] left and right pointers
+- [x] string 
+    - [x] append
+    - [x] insert
+- [x] stringstream (string read as: float, int, several params with spaces)
+- [x] stoi 
