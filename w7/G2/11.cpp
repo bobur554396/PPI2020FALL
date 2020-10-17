@@ -6,6 +6,8 @@ int main(){
 
   string s;
 
+  // cin >> s;
+  
   getline(cin, s);
 
 
